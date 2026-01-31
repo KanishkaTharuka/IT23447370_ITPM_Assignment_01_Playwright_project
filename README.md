@@ -25,11 +25,11 @@ https://www.swifttranslator.com/
 
 ## Installation
 
-### Step 1: Clone or Download the Repository
+### Step 1: clone or download the repository
 git clone 
 cd 
 
-### Step 2: Install Dependencies
+### Step 2: install dependencies
 npm init playwright@latest
 
 ### Step 3: Install Playwright Browsers
@@ -55,7 +55,7 @@ npx playwright show-report
 
 ### Positive Functional Tests (24 scenarios)
 - Correct Singlish to Sinhala conversions
-- Simple, compound, and complex sentences
+- Simple, compound and complex sentences
 - Questions and commands
 - Tense variations (past, present, future)
 - Polite and informal language
