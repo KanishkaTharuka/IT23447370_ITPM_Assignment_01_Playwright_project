@@ -26,6 +26,8 @@ https://www.swifttranslator.com/
 ## Installation
 
 ### Step 1: Clone or Download the Repository
+git clone 
+cd 
 
 ### Step 2: Install Dependencies
 npm init playwright@latest
